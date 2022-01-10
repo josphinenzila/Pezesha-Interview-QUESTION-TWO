@@ -4,14 +4,14 @@ This package shows how to import Excel File in Laravel and Insert Data in the Da
 
 ## Prerequisites
 
-Use the sql file in databases/db-dumb to set up your db. Copy the env.example details into .env file and update the database details accordingly. NOTE: The package only works with small size files 
+Use the sql file in databases/db-dumb to set up your db. Copy the env.example details into .env file and update the database details accordingly. NOTE: The package only works with small sized files 
 
 ## Installation
 
 - Run the following command to clone this repo
 
 ```
-git clone https://github.com/josphinenzila/Pezesha-Interview-QUESTION-ONE.git
+git clone https://github.com/josphinenzila/Pezesha-Interview-QUESTION-TWO.git
 ```
 
 OR
